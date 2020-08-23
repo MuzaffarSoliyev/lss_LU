@@ -1,0 +1,2 @@
+all:
+	 gcc -x c -O3 main_lss_46_07.c lss_46_07.c -o lss -lm
